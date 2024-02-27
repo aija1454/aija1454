@@ -1,0 +1,4 @@
+        setPassword ("guest"); 
+        setCreateDate(new Date()); 
+        setActivateDate(new Date()); 
+        fInfo.put("enabled", String.valueOf(true)); 
