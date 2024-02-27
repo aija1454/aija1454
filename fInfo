@@ -1,0 +1,5 @@
+        fInfo = new Hashtable(); 
+ 
+        setLoginId("guest"); 
+        setFirstName("guest"); 
+        setLastName("guest"); 
