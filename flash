@@ -1,0 +1,7 @@
+    private boolean flash = false;
+    private TankWar tw = this;
+    static int SCORE = 0;
+ 
+    private final JFrame mainF;
+    private int style;
+ 
