@@ -1,0 +1,6 @@
+    private boolean isGotomenu() {
+        isPause = true;
+        boolean flag = false;
+        Builder gotoMenu = new Builder(mContext);
+        TextView textView = new TextView(mContext);
+        textView.setText("");
