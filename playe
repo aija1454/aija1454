@@ -1,0 +1,5 @@
+            cpu_score+=1
+        else:
+            print("You win!", player, "cut", computer)
+            player_score+=1
+    elif player=='E':
