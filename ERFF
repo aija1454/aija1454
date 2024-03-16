@@ -1,0 +1,4 @@
+            print("You win!", player, "covers", computer)
+            player_score+=1
+    elif player == "Scissors":
+        if computer == "Rock":
