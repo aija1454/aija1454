@@ -1,0 +1,6 @@
+        } catch (InvalidKeyException e) {
+            e.printStackTrace();
+            log.error(e.getMessage(), e);
+        }
+    }
+}
